@@ -395,7 +395,7 @@ The following screenshots demonstrate the core functionality and user interface 
 
 | Home Page | Voice Recognition |
 |------------|-------------------|
-| ![](ScreenShots/Home.png)![](ScreenShots/Home1.png) | ![](ScreenShots/AIvoice.png) |
+| ![](ScreenShots/Home.png)![](ScreenShots/Home1.png) | ![](ScreenShots/AIvoice.png)![](ScreenShots/Aicoicw.png) |
 
 | AI Emergency Guidance | Emergency Contacts |
 |-----------------------|--------------------|
