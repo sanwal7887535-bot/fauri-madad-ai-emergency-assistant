@@ -395,7 +395,7 @@ The following screenshots demonstrate the core functionality and user interface 
 
 | Home Page | Voice Recognition |
 |------------|-------------------|
-| ![](src/components/screens/AboutScreen.tsx) | ![](docs/screenshots/voice-input.png) |
+| ![](ScreenShots/Home.png)![](ScreenShots/Home1.png) | ![](ScreenShots/AI voice.png) |
 
 | AI Emergency Guidance | Emergency Contacts |
 |-----------------------|--------------------|
