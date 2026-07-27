@@ -395,15 +395,19 @@ The following screenshots demonstrate the core functionality and user interface 
 
 | Home Page | Voice Recognition |
 |------------|-------------------|
-| ![](ScreenShots/Home.png)![](ScreenShots/Home1.png) | ![](ScreenShots/AI voice.png) |
+| ![](ScreenShots/Home.png)![](ScreenShots/Home1.png) | ![](ScreenShots/AIvoice.png) |
 
 | AI Emergency Guidance | Emergency Contacts |
 |-----------------------|--------------------|
-| ![](docs/screenshots/ai-response.png) | ![](docs/screenshots/emergency-contacts.png) |
+| ![](ScreenShots/guider.png) | ![](ScreenShots/EmergenceContact.png) |
 
 | Offline First-Aid Library | Settings |
 |---------------------------|----------|
-| ![](docs/screenshots/library.png) | ![](docs/screenshots/settings.png) |
+| ![](ScreenShots/OfflineGuider.png) | ![](ScreenShots/Setting.png) |
+
+| History | Directory |
+|---------------------------|----------|
+| ![](ScreenShots/History.png) | ![](ScreenShots/Directory.png) |
 
 ---
 
