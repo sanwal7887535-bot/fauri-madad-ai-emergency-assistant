@@ -60,7 +60,7 @@ The primary objectives of **Fauri Madad** are:
 # 🌐 Live Demo
 
 🚀 **Experience Fauri Madad Live:**  
-**🔗 https://your-app.vercel.app**
+**🔗 https://fauri-madad-ai-emergency-assistant.vercel.app/**
 
 > *The application is publicly deployed and can be accessed from any modern web browser without installation.*
 
@@ -333,25 +333,30 @@ The following development tools and cloud services were used throughout the proj
 ```text
 Fauri-Madad/
 │
-├── client/
-│   ├── components/
-│   ├── screens/
-│   ├── hooks/
-│   ├── data/
-│   ├── services/
-│   └── assets/
+├── api/                           # Vercel Serverless Functions
+│   ├── guidance.ts                # AI-powered emergency first-aid guidance
+│   ├── followup.ts                # Follow-up emergency questions
+│   └── health.ts                  # Health check endpoint
 │
-├── server/
-│   ├── server.ts
-│   └── api/
+├── src/
+│   ├── components/                # Reusable UI components
+│   ├── screens/                   # Application screens
+│   ├── hooks/                     # Custom React hooks
+│   ├── data/                      # Offline emergency library
+│   ├── lib/                       # AI client utilities
+│   ├── types.ts                   # Shared TypeScript types
+│   ├── App.tsx                    # Main application component
+│   ├── main.tsx                   # React entry point
+│   └── index.css                  # Global styles
 │
-├── public/
+├── public/                        # Static assets
 │
-├── .env.example
-├── package.json
-├── vite.config.ts
-├── tsconfig.json
-└── README.md
+├── package.json                   # Project configuration & dependencies
+├── vite.config.ts                 # Vite configuration
+├── tsconfig.json                  # TypeScript configuration
+├── vercel.json                    # Vercel deployment configuration
+├── .env.example                   # Example environment variables
+└── README.md                      # Project documentation
 ```
 
 ---
@@ -391,7 +396,7 @@ Key optimizations include:
 
 The following screenshots demonstrate the core functionality and user interface of **Fauri Madad**.
 
-> **Note:** Replace the placeholder images below with actual screenshots stored inside the `/docs/screenshots/` folder of your repository.
+
 
 | Home Page | Voice Recognition |
 |------------|-------------------|
@@ -417,11 +422,11 @@ The application has been successfully deployed and is publicly accessible.
 
 ### 🌐 Live Application
 
-**https://YOUR_VERCEL_URL**
+**https://fauri-madad-ai-emergency-assistant.vercel.app/**
 
 ### 💻 Source Code
 
-**https://github.com/YOUR_GITHUB_USERNAME/fauri-madad-ai-emergency-assistant**
+**https://github.com/sanwal7887535-bot/fauri-madad-ai-emergency-assistant**
 
 ---
 
@@ -498,6 +503,18 @@ During the development of Fauri Madad, the following goals were successfully acc
 
 ---
 
+## 🚀 Future Enhancements
+
+- GPS-based nearest hospital recommendations
+- Automatic emergency SMS sharing
+- Offline Progressive Web App (PWA)
+- Medical image analysis
+- Multi-language support beyond English and Urdu
+- AI-powered CPR animation guidance
+- Emergency contact synchronization
+
+---
+
 # 🙏 Acknowledgements
 
 Special thanks to the technologies and communities that made this project possible.
@@ -525,10 +542,10 @@ BS Information Technology Student
 Passionate about Artificial Intelligence, Full-Stack Web Development, and building technology that solves real-world problems.
 
 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/sanwal7887535-bot
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/muhammad-sanwal-4420a02b9/
 
 ---
 
