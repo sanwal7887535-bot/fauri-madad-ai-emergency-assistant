@@ -435,7 +435,7 @@ The application has been successfully deployed and is publicly accessible.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/fauri-madad-ai-emergency-assistant.git
+git clone https://github.com/sanwal7887535-bot/fauri-madad-ai-emergency-assistant.gi
 ```
 
 ### Navigate to the project
