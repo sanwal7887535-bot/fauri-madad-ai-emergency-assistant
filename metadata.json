@@ -1,0 +1,6 @@
+{
+  "name": "Fauri Madad",
+  "description": "Voice-First Emergency First-Aid Assistant for Pakistan",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
